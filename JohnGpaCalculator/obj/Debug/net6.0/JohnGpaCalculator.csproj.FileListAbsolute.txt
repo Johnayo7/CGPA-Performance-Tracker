@@ -1,0 +1,42 @@
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.exe
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.deps.json
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.runtimeconfig.json
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.dll
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.pdb
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.dll
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\obj\Debug\net6.0\refint\JohnGpaCalculator.dll
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.pdb
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\JohnGpaCalculator\JohnGpaCalculator\obj\Debug\net6.0\ref\JohnGpaCalculator.dll
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.exe
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.deps.json
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.runtimeconfig.json
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.dll
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.pdb
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.AssemblyInfo.cs
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.dll
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\obj\Debug\net6.0\refint\JohnGpaCalculator.dll
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.pdb
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.genruntimeconfig.cache
+C:\Users\Decagon\Documents\week-1-Johnayo7\JohnGpaCalculator\obj\Debug\net6.0\ref\JohnGpaCalculator.dll
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.exe
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.deps.json
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.runtimeconfig.json
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.dll
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\bin\Debug\net6.0\JohnGpaCalculator.pdb
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.dll
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\obj\Debug\net6.0\refint\JohnGpaCalculator.dll
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.pdb
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\obj\Debug\net6.0\JohnGpaCalculator.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\CGPA calculator\JohnGpaCalculator\obj\Debug\net6.0\ref\JohnGpaCalculator.dll
